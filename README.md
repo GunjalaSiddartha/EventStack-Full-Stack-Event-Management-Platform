@@ -200,23 +200,23 @@ Backend:  http://localhost:5050
 
 ## 🏠 Home Page
 
-![Home](./screenshots/home.png)
+![Home](./screenshots/step-3-customer-homePage.png)
 
 ## 📄 Event Details
 
-![Event Details](./screenshots/event.png)
+![Event Details](./screenshots/step-4-customer-selectedEvent.png)
 
 ## 💳 Payment Page
 
-![Payment](./screenshots/payment.png)
+![Payment](./screenshots/step-5-customer-paymentDone.png)
 
 ## 🎟 Ticket Page
 
-![Ticket](./screenshots/ticket.png)
+![Ticket](./screenshots/step-6-customer-ticketGeneration.png)
 
 ## 📊 Dashboard
 
-![Dashboard](./screenshots/dashboard.png)
+![Dashboard](./screenshots/step-7-customer-dashBoard.png)
 
 ---
 
