@@ -1,4 +1,4 @@
-# 🚀 EventStack – Full-Stack Event Management Platform
+# 🚀 EventStack – An Event Management Platform
 
 EventStack is a modern, full-stack web application designed to simplify event discovery, booking, and management. It enables users to explore events, securely register using online payments, and receive digital tickets, while organizers can create and manage events efficiently.
 
